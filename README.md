@@ -23,5 +23,5 @@ I focus on writing clean, efficient, and scalable backend code for high-traffic 
 - Improving cloud readiness & distributed system design  
 
 ### 🔗 Find me here
-- **LinkedIn:** https://linkedin.com/in/septivan  
-- **Email:** *your-email-here*  
+- **LinkedIn:** [https://linkedin.com/in/septivan ](https://www.linkedin.com/in/septivanekokurniawan/) 
+- **Email:** septivan.e.k@gmail.com
